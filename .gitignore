@@ -1,0 +1,17 @@
+/.idea
+/laravel/.env
+/laravel/.env.example
+/laravel/config/cache.php
+/laravel/config/database.php
+/laravel/config/filesystems.php
+/laravel/config/hashing.php
+/laravel/config/logging.php
+/laravel/config/mail.php
+/laravel/config/queue.php
+/laravel/config/services.php
+/laravel/config/session.php
+/laravel/config/view.php
+/laravel/config/app.php
+/laravel/config/auth.php
+/laravel/config/broadcasting.php
+/laravel/public
